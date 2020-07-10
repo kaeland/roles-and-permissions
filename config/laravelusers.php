@@ -77,7 +77,7 @@ return [
     'enableAppCss'                  => true,
     'appCssPublicFile'              => 'css/app.css',
 
-    'enableBootstrapJsCdn'          => true,
+    'enableBootstrapJsCdn'          => false,
     'bootstrapJsCdn'                => 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js',
 
     'enableAppJs'                   => true,
